@@ -1,0 +1,92 @@
+s
+.Hedder{
+    background-image: url("Image/header-bg.png");
+    background-position: center;
+}
+.Biographhy{
+    background-image: url("Image/biography-bg.png");
+    background-position: bottom;
+}
+.LatestWork{
+    background-image: url("Image/latest-work-bg.png");
+    background-position: center;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.Contact{
+    background-image: url("Image/footer-bg.png");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.name{
+    color: purple;
+}
+.Intro{
+    width: 40%;
+    float: left;
+    margin-left: 6%;
+    padding-left: 2%;
+}
+.Intro img{
+    width: 50%;
+    float: right;
+}
+.bio{
+    width: 40%;
+    float: left;
+    margin-left: 6%;
+    padding-left: 2%;
+}
+.bio img{
+    width: 50%;
+    float: right;
+}
+body{
+    margin: 0;
+}
+section{
+    height: 400px;
+    padding-bottom: 160px;
+}
+.link-button{
+    text-decoration: none;
+    background-color:purple;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.lastest-work img{
+
+    float: left;
+    margin-top: 40px;
+    width: 20%;
+    margin-left: 6%;
+    padding-left: 2%;
+}
+.email-id{
+    font-size: 20px;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
+.link-button1{
+    text-decoration: none;
+    background-color:purple;
+    padding: 100px 200px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+#button{
+    margin-top: 20px;
+    border-radius: 5px;
+    height: 100px;
+    width: 30%;
+    background-image: linear-gradient(45deg,rgb(163, 140, 136));
+    background-color:#f3658c;
+    padding: 10px 20px;
+    color: white;
+}
